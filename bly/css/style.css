@@ -1,0 +1,20 @@
+/* CSS Document */
+
+
+
+body{background:url(../img/mobanbeijing.jpg) no-repeat center 90px #000;font-family:Arial, Helvetica, sans-serif;padding:0;
+     font-size:12px;margin:0px;color:#632c12;}
+.clear{clear:both;}
+h1{color:#632c12;font-size:36px;font-weight:normal;margin:0px;padding:0 0 40px 0;}
+#main_container{margin:0 auto;width:960px;height:auto;padding:0px 0 0px 0;}
+
+/*--------------------contact-----------------*/
+
+.contact_form{width:465px;padding:360px 0 20px 430px;}
+.contact_row{width:465px;float:left;clear:both;padding:0 0 15px 0;}
+.contact_row label{width:120px;padding:2px 30px 0px 10px;float:left;text-align:right;font-size:24px;color:#632c12;}
+.contact_input{width:290px;height:30px;background:url(../img/border.png) no-repeat center bottom;border:none;padding:2px 0 0 2px;}
+.contact_textarea{width:290px;height:120px;line-height:30px;font-size:12px;font-family:Arial, Helvetica, sans-serif;
+                  background:url(../img/border1.png) repeat-y center bottom;border:0;padding:2px 0 0 2px; color:#804000;
+				  font-size:14px;}  
+input.contact_submit{float:right;padding:5px 10px 0 0; border-bottom:1px outset #330; }
